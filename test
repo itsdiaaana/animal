@@ -1,0 +1,28 @@
+.text-one{
+       
+        
+        h1{
+            font-size: 20px;
+            color: black;
+            text-align: center;
+            margin-top: -100px;
+        }
+        p{
+            font-size: 12px;
+            color: #000;
+            text-align: center;
+            text-transform: capitalize;
+        }
+
+      }
+      button{
+
+      }
+
+      <div class="text-one">
+    <h1>Discover the
+World of Animals</h1>
+<p>Animals make our planet wonderful and unique. <br>
+Learn about their lives, habitats and how we can <br> protect them for a better future.</p>
+</div>
+<button>Explore More</button>
